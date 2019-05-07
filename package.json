@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "iroot/ref"
+    "ref": "https://github.com/iroot/ref/tarball/prebuilt"
   },
   "devDependencies": {
     "bindings": "1",
